@@ -3,7 +3,7 @@ package com.xpinjection.library.adaptors.api;
 import com.xpinjection.library.domain.Expert;
 import com.xpinjection.library.domain.Recommendation;
 import com.xpinjection.library.exception.InvalidRecommendationException;
-import com.xpinjection.library.service.ExpertService;
+import com.xpinjection.library.domain.service.ExpertService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

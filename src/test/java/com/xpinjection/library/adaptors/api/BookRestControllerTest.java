@@ -1,7 +1,7 @@
 package com.xpinjection.library.adaptors.api;
 
 import com.xpinjection.library.domain.Book;
-import com.xpinjection.library.service.BookService;
+import com.xpinjection.library.domain.service.BookService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

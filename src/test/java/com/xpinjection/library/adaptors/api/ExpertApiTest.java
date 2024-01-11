@@ -1,7 +1,7 @@
 package com.xpinjection.library.adaptors.api;
 
 import com.xpinjection.library.domain.Books;
-import com.xpinjection.library.service.BookService;
+import com.xpinjection.library.domain.service.BookService;
 import org.apache.http.HttpStatus;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.CommandLineRunner;

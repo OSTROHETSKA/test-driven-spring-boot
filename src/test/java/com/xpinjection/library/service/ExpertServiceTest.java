@@ -6,6 +6,8 @@ import com.xpinjection.library.adaptors.persistence.entity.ExpertEntity;
 import com.xpinjection.library.domain.Book;
 import com.xpinjection.library.domain.Expert;
 import com.xpinjection.library.domain.Recommendation;
+import com.xpinjection.library.domain.service.ExpertService;
+import com.xpinjection.library.domain.service.ExpertServiceImpl;
 import com.xpinjection.library.exception.InvalidRecommendationException;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
